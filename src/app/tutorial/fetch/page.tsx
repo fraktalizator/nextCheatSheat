@@ -8,7 +8,7 @@ interface Student extends RowEntry{
 }
 
 const errorMessage = <>It looks like api server is down. Create your own or grab one ready to go:
-    <a href="https://github.com/fraktalizator/ASPCountryAPI"
+    <a href="https://github.com/fraktalizator/NextCheatSheatFetchApi"
        className="font-medium text-blue-600 dark:text-blue-500 hover:underline"> api source code</a></>
 
 async function getStudents() {
